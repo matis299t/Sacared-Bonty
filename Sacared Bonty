@@ -1,5 +1,3 @@
-# # sacred code   
-  
 local function __run()  
     -- Lee la config del usuario desde getgenv().SacredBountyConfig  
     -- Si el usuario no la define, usa estos valores por defecto  
